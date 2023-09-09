@@ -1,4 +1,4 @@
-#environment variables
+#environment variables for project
 variable "region" {}
 variable "project_name" {}
 variable "environment" {}
